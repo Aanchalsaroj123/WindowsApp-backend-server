@@ -1,18 +1,11 @@
 {
   "submissions": [
     {
-      "name": "Aanchal Saroj",
-      "email": "aanchal@gmail.com",
-      "phone": "1234567890",
-      "github_link": "https://github.com/Aanchalsaroj123",
-      "stopwatch_time": 1.25
-    },
-    {
-      "name": "Aanchal",
-      "email": "aanchal@gmail.com",
-      "phone": "1234567890",
-      "github_link": "https://github.com/Aanchalsaroj123",
-      "stopwatch_time": 1.25
+      "Name": "aanchal saroj",
+      "Email": "aanchal@gmail.com",
+      "Phone": "7813832677",
+      "GitHubLink": "https://github.com/Aanchalsaroj123",
+      "StopwatchTime": 1.3586844
     }
   ]
 }
