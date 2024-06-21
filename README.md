@@ -2,7 +2,7 @@ This server provides endpoints to handle form submissions and store them in a da
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/Aanchalsaroj123/WindowsApp-backend-server.git
 
 2. Navigate to the project directory:
    cd submission-form-server
